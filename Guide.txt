@@ -1,0 +1,22 @@
+staff: osmosiselba@gmail.com
+password: 25211006
+
+
+admin: [adeyehunboluwatife@gmail.com]
+password: [25211006]
+
+
+
+[student]
+idiagbonmary@gmail.com
+password: 25211006
+
+osmosiselba@iyanu.com
+password: 25211006
+
+[teacher]
+babalolaemmanuel@proton.me
+password: 25211006
+
+olayemiemmanuel2327@gmail.com
+password: 25211006
